@@ -53,15 +53,15 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.shion.dev/api?username=namratabose2017-hue&theme=radical&show_icons=true&bg_color=00000000" width="400" alt="Stats Card" />
+        <img src="https://github-readme-stats.shion.dev/api?username=namratabose2017-hue&theme=radical&show_icons=true&bg_color=00000000&hide_border=true" width="400" />
       </td>
       <td>
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=namratabose2017-hue&theme=radical&layout=compact&bg_color=00000000" width="300" alt="Languages Card" />
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=namratabose2017-hue&theme=radical&layout=compact&bg_color=00000000&hide_border=true" width="300" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://streak-stats.demolab.com/?user=namratabose2017-hue&theme=radical&bg_color=00000000" width="100%" alt="Streak Card" />
+        <img src="https://streak-stats.demolab.com/?user=namratabose2017-hue&theme=radical&bg_color=00000000&hide_border=true" width="100%" />
       </td>
     </tr>
   </table>
@@ -71,9 +71,8 @@
 
 ### ✍️ Random Dev Quote
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=00000000" width="80%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=00000000&hide_border=true" width="80%" />
 </div>
-
 ---
 
 <div align="center">
